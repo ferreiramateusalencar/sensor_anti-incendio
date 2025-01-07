@@ -38,10 +38,10 @@ Projeto desenvolvido durante o curso de **Formação Básica em Software Embarca
 ## 🗂️ Layout do Repositório
 
 /Sensor_anti-incendio
-- sketch_sensor_anti-incendio/ &emsp;&emsp;&emsp;&emsp;# Diretório para o código-fonte
+- sketch_sensor_anti-incendio/ &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; # Diretório para o código-fonte
   - sketch_sensor_anti-incendio.ino  &emsp;&emsp;&emsp;&emsp;# Código principal
-  - README.md  &emsp;&emsp;&emsp;&emsp;# Readme do projeto
-  - License.md  &emsp;&emsp;&emsp;&emsp;# Licença de uso
+  - README.md  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;    # Readme do projeto
+  - License.md  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;# Licença de uso
 
 ---
 
